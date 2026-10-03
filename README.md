@@ -220,21 +220,6 @@ build/app/outputs/flutter-apk/
 ---
 
 
-
-I used **Claude** during development to:
-
-- Plan and organize parts of the application
-- Review the practical task requirements
-- Help with implementation ideas
-- Draft and improve parts of the expense history functionality
-- Help break larger UI sections into reusable widgets
-- Debug compilation and implementation issues
-- Review and improve this README
-
-I reviewed, modified, tested, and adapted the generated suggestions myself. I understand the implementation and can explain the code and project structure.
-
----
-
 ## Testing
 
 The application was tested for the main user flows, including:
